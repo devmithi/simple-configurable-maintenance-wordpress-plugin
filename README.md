@@ -33,7 +33,8 @@ We can set maintenance mode for:
 -   Can be set to show page without maintenance to user role when user is logged in. e.g. only admin can see page if maintenance is enabled.
 
 
-# Installation
+## Installation
+
 1. Upload the plugin files to the `/wp-content/plugins/km-maintenance` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
 1. Use the `Settings->KM Maintenance` screen to configure the plugin
